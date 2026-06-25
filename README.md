@@ -36,7 +36,7 @@ A custom-built internal management system developed for a body repair workshop.
 
 ➡ **Repository**
 
-https://github.com/wj-systems/wiltra-job-tracker
+https://github.com/YOUR_USERNAME/wiltra-job-tracker
 
 ---
 
@@ -60,7 +60,7 @@ A premium Shopify e-commerce website developed for a women's fashion brand.
 
 ➡ **Repository**
 
-https://github.com/wj-systems/cyrielle-shopify
+https://github.com/YOUR_USERNAME/cyrielle-shopify
 
 ---
 
@@ -94,7 +94,11 @@ https://github.com/wj-systems/cyrielle-shopify
 
 ## 📄 Portfolio
 
-[📥 Download My Portfolio (PDF)](./Wilson-Janitra-Portfolio-2026.pdf)
+Download my complete portfolio:
+
+[📥 Download My Portfolio (PDF)](./Wilson-Janitra-Portfolio.pdf)
+
+
 
 ---
 
