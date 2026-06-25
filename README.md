@@ -24,6 +24,12 @@ Internal management system for body repair workflow tracking, reporting, and ope
 #### 👗 Cyrielle Shopify
 Premium fashion e-commerce website built with Shopify, custom theme development, and responsive design.
 
+## 📄 Portfolio
+
+You can download my latest portfolio here.
+
+➡ Wilson-Janitra-Portfolio.pdf
+
 ### Contact
 
 Email: janitra2022@gmail.com  
