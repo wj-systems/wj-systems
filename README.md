@@ -1,37 +1,119 @@
-# Hi, I'm Wilson Janitra 👋
+# 👋 Hi, I'm Wilson Janitra
 
-## Business Systems Developer
+### Business Systems Developer
 
-I build digital systems that improve business operations and solve real-world challenges.
+Building digital systems that improve business operations and solve real-world challenges.
 
-### What I Build
+---
 
-- Internal management systems
-- Business dashboards
-- Workflow automation tools
-- Shopify e-commerce websites
-- Custom PHP & MySQL applications
+## 🚀 About Me
 
-### Tech Stack
+I specialize in developing custom web applications, business management systems, and Shopify e-commerce solutions.
 
-PHP • MySQL • HTML • CSS • JavaScript • Bootstrap • Shopify • Liquid
+My passion is turning complex business processes into simple, scalable, and efficient digital products that help businesses grow.
 
-### Featured Projects
+---
 
-#### 🚗 Wiltra Job Tracker
-Internal management system for body repair workflow tracking, reporting, and operational visibility.
+## 💼 Featured Projects
 
-#### 👗 Cyrielle Shopify
-Premium fashion e-commerce website built with Shopify, custom theme development, and responsive design.
+### 🚗 Wiltra Job Tracker
+
+A custom-built internal management system developed for a body repair workshop.
+
+**Key Features**
+
+* Vehicle Workflow Tracking
+* Operational Dashboard
+* COGS (HPP) Reporting
+* Monthly Operational Reports
+* Idle Unit Monitoring
+* Photo Documentation
+* PDF & Excel Export
+
+**Tech Stack**
+
+`PHP` `MySQL` `Bootstrap` `HTML` `CSS` `JavaScript`
+
+➡ **Repository**
+
+https://github.com/wj-systems/wiltra-job-tracker
+
+---
+
+### 👗 Cyrielle Shopify
+
+A premium Shopify e-commerce website developed for a women's fashion brand.
+
+**Key Features**
+
+* Custom Shopify Theme
+* Responsive Mobile Design
+* Product & Collection Management
+* Search Experience
+* Newsletter Popup
+* Product Variant Selection
+* Payment Confirmation Workflow
+
+**Tech Stack**
+
+`Shopify` `Liquid` `HTML` `CSS` `JavaScript`
+
+➡ **Repository**
+
+https://github.com/wj-systems/cyrielle-shopify
+
+---
+
+## 💻 Technologies
+
+### Backend
+
+* PHP
+* MySQL
+
+### Frontend
+
+* HTML5
+* CSS3
+* JavaScript
+* Bootstrap
+
+### E-Commerce
+
+* Shopify
+* Shopify Liquid
+
+### Development
+
+* Responsive Web Design
+* Dashboard Development
+* Workflow Automation
+* Business Management Systems
+
+---
 
 ## 📄 Portfolio
 
-You can download my latest portfolio here.
+Download my complete portfolio:
 
-➡ Wilson-Janitra-Portfolio.pdf
+📥 **Wilson-Janitra-Portfolio.pdf**
 
-### Contact
+---
 
-Email: janitra2022@gmail.com  
-Instagram: @wj.systems  
-Location: Indonesia
+## 📬 Contact
+
+📧 Email
+
+**[janitra2022@gmail.com](mailto:janitra2022@gmail.com)**
+
+📷 Instagram
+
+**@wj.systems**
+
+🌍 Location
+
+**Indonesia**
+
+---
+
+> *"Building software is not just about writing code. It's about solving real business problems."*
