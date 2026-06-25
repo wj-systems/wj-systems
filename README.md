@@ -1,39 +1,31 @@
-👋 Hi, I'm Wilson Janitra
+# Hi, I'm Wilson Janitra 👋
 
-Business Systems Developer
+## Business Systems Developer
 
-Building digital systems that improve
-business operations and solve real-world
-challenges.
+I build digital systems that improve business operations and solve real-world challenges.
 
-──────────────────────────
+### What I Build
 
-Featured Projects
+- Internal management systems
+- Business dashboards
+- Workflow automation tools
+- Shopify e-commerce websites
+- Custom PHP & MySQL applications
 
-🚗 Wiltra Job Tracker
+### Tech Stack
 
-👗 Cyrielle Shopify
+PHP • MySQL • HTML • CSS • JavaScript • Bootstrap • Shopify • Liquid
 
-──────────────────────────
+### Featured Projects
 
-Tech Stack
+#### 🚗 Wiltra Job Tracker
+Internal management system for body repair workflow tracking, reporting, and operational visibility.
 
-PHP • MySQL • HTML • CSS
-JavaScript • Shopify
+#### 👗 Cyrielle Shopify
+Premium fashion e-commerce website built with Shopify, custom theme development, and responsive design.
 
-──────────────────────────
+### Contact
 
-Available For
-
-✓ Business Systems
-✓ Shopify Development
-✓ Dashboard Development
-✓ Workflow Automation
-
-──────────────────────────
-
-Contact
-
-Instagram
-LinkedIn
-Email
+Email: janitra2022@gmail.com  
+Instagram: @wj.systems  
+Location: Indonesia
