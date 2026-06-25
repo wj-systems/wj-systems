@@ -94,9 +94,7 @@ https://github.com/wj-systems/cyrielle-shopify
 
 ## 📄 Portfolio
 
-Download my complete portfolio:
-
-📥 **Wilson-Janitra-Portfolio.pdf**
+[📥 Download My Portfolio (PDF)](./Wilson-Janitra-Portfolio-2026.pdf)
 
 ---
 
