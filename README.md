@@ -1,16 +1,39 @@
-## Hi there 👋
+👋 Hi, I'm Wilson Janitra
 
-<!--
-**wj-systems/wj-systems** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Business Systems Developer
 
-Here are some ideas to get you started:
+Building digital systems that improve
+business operations and solve real-world
+challenges.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+──────────────────────────
+
+Featured Projects
+
+🚗 Wiltra Job Tracker
+
+👗 Cyrielle Shopify
+
+──────────────────────────
+
+Tech Stack
+
+PHP • MySQL • HTML • CSS
+JavaScript • Shopify
+
+──────────────────────────
+
+Available For
+
+✓ Business Systems
+✓ Shopify Development
+✓ Dashboard Development
+✓ Workflow Automation
+
+──────────────────────────
+
+Contact
+
+Instagram
+LinkedIn
+Email
